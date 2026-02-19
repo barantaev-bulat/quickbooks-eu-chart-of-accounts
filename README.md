@@ -1,4 +1,4 @@
-# quickbooks-eu-chart-of-accounts
+# QuickBooks EU Chart of accounts 2026
 2026 QuickBooks Online EU Chart of Accounts (COA) - Types &amp; Details
 2026 QuickBooks Online EU Chart of Accounts (COA) - Types & Details
 
