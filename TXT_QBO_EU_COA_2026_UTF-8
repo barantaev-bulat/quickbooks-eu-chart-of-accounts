@@ -97,11 +97,11 @@ Income	Other Income	Other Miscellaneous Income
 Income	Other Income	Other Operating Income	
 Income	Other Income	Tax-Exempt Interest	
 Income	Other Income	"Unrealised Loss On Securities, Net Of Tax"	
-Expense	Cost Of Sales	Cost Of Labour – COS	
-Expense	Cost Of Sales	Equipment Rental – COS	
-Expense	Cost Of Sales	Freight And Delivery – COS	
-Expense	Cost Of Sales	Other Costs Of Sales – COS	
-Expense	Cost Of Sales	Supplies And Materials – COS	
+Expense	Cost Of Sales	Cost Of Labour â€“ COS	
+Expense	Cost Of Sales	Equipment Rental â€“ COS	
+Expense	Cost Of Sales	Freight And Delivery â€“ COS	
+Expense	Cost Of Sales	Other Costs Of Sales â€“ COS	
+Expense	Cost Of Sales	Supplies And Materials â€“ COS	
 Expense	Expenses	Advertising/Promotional	
 Expense	Expenses	Amortisation Expense	
 Expense	Expenses	Auto	
@@ -129,8 +129,8 @@ Expense	Expenses	Repair And Maintenance
 Expense	Expenses	Shipping And Delivery Expense	
 Expense	Expenses	Supplies And Materials	
 Expense	Expenses	Taxes Paid	
-Expense	Expenses	Travel Expenses – General And Admin Expenses	
-Expense	Expenses	Travel Expenses – Selling Expense	
+Expense	Expenses	Travel Expenses â€“ General And Admin Expenses	
+Expense	Expenses	Travel Expenses â€“ Selling Expense	
 Expense	Expenses	Unapplied Cash Bill Payment Expense	
 Expense	Expenses	Utilities	
 Expense	Other Expense	Amortisation	
