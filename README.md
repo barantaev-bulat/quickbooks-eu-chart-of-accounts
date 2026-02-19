@@ -1,7 +1,6 @@
-# QuickBooks EU Chart of accounts 2026
-2026 QuickBooks Online EU Chart of Accounts (COA) - Types & Details
-
 #accounting, #quickbooks-online, #finance-data, #eu-business
+
+# 2026 QuickBooks Online EU Chart of Accounts (COA) - Types & Details
 
 1. Introduction
 
@@ -33,15 +32,13 @@ Expenses: Comprehensive list including Cost of Sales (COS) and Administrative ex
 
 To ensure maximum accessibility, the data is provided in the following formats:
 
-QBO_EU_COA_2026.xlsx: Best for active financial modeling and filtering.
+CSV_QBO_EU_COA_2026: Ideal for bulk importing into accounting software.
 
-QBO_EU_COA_2026.csv: Ideal for bulk importing into accounting software.
+JPG_QBO_EU_COA_2026: Visual reference for quick viewing on mobile devices or tablets.
 
-QBO_EU_COA_2026.pdf: Formatted for easy printing and offline reference.
+PDF_QBO_EU_COA_2026: Formatted for easy printing and offline reference.
 
-QBO_EU_COA_2026.txt: Simple raw text for quick searches or custom scripting.
-
-QBO_EU_COA_2026.jpg: Visual reference for quick viewing on mobile devices or tablets.
+TXT_QBO_EU_COA_2026_UTF-8: Simple raw text for quick searches or custom scripting.
 
 5. Implementation
 
