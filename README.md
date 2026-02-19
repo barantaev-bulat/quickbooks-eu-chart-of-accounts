@@ -1,6 +1,6 @@
 # QuickBooks EU Chart of accounts 2026
-2026 QuickBooks Online EU Chart of Accounts (COA) - Types &amp; Details
 2026 QuickBooks Online EU Chart of Accounts (COA) - Types & Details
+#accounting, #quickbooks-online, #finance-data, #eu-business
 
 1. Introduction
 
@@ -10,7 +10,7 @@ This repository provides a comprehensive and structured list of the QuickBooks O
 
 Accuracy: Align your bookkeeping with the 2026 EU standards.
 
-Automation-Ready: Use the provided CSV and JSON formats to map transactions via API or bulk import.
+Automation-Ready: Use the provided CSV format to map transactions via API or bulk import.
 
 Localization: Specifically designed for EU entities handling complex logistics, VAT, and multi-currency operations.
 
@@ -29,12 +29,11 @@ Income: Operating and non-operating revenue types.
 Expenses: Comprehensive list including Cost of Sales (COS) and Administrative expenses.
 
 4. Files Included
-
-COA_2026.csv: Raw data for spreadsheet imports.
-
-COA_2026.json: Developer-friendly format for agentic AI orchestration and software integration.
-
-COA_2026.md: A readable version for documentation and quick reference.
+PDF: 2026 Quickbooks Online EU Chart Of Accounts - Types Details.pdf
+TXT: 2026 Quickbooks Online EU Chart Of Accounts - Types Details.txt
+XLSX: 2026 Quickbooks Online EU Chart Of Accounts - Types Details.xlsx
+CSV: 2026 Quickbooks Online EU Chart Of Accounts - Types Details.csv
+JPG: 2026 Quickbooks Online EU Chart Of Accounts - Types Details.jpg
 
 5. Usage
 
