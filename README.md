@@ -1,7 +1,7 @@
 #accounting, #quickbooks-online, #finance-data, #eu-business
 
 # 2026 QuickBooks Online EU Chart of Accounts (COA) - Types & Details
-![QuickBooks Online EU Chart of Accounts Header](QBO-EU-Accounts-head.jpg)
+![QuickBooks Online EU Chart of Accounts Header](QBO-EU-Accounts-logo.jpg)
 
 1. Introduction
 
