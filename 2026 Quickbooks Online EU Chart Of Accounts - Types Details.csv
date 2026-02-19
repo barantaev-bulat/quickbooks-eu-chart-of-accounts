@@ -1,0 +1,140 @@
+Section,Account Type,Detail Type
+Asset,Cash And Cash Equivalents,Bank
+Asset,Cash And Cash Equivalents,Cash And Cash Equivalents
+Asset,Cash And Cash Equivalents,Cash On Hand
+Asset,Cash And Cash Equivalents,Client Trust Account
+Asset,Cash And Cash Equivalents,Money Market
+Asset,Cash And Cash Equivalents,Rents Held In Trust
+Asset,Cash And Cash Equivalents,Savings
+Asset,Accounts Receivable (A/R),Accounts Receivable (A/R)
+Asset,Current Assets,Allowance For Bad Debts
+Asset,Current Assets,Assets Available For Sale
+Asset,Current Assets,Development Costs
+Asset,Current Assets,Employee Cash Advances
+Asset,Current Assets,Inventory
+Asset,Current Assets,Investments - Other
+Asset,Current Assets,Loans To Officers
+Asset,Current Assets,Loans To Others
+Asset,Current Assets,Loans To Shareholders
+Asset,Current Assets,Other Current Assets
+Asset,Current Assets,Prepaid Expenses
+Asset,Current Assets,Retainage
+Asset,Current Assets,Undeposited Funds
+Asset,Fixed Assets,Accumulated Depletion
+Asset,Fixed Assets,"Accumulated Depreciation On Property, Plant And Equipment"
+Asset,Fixed Assets,Buildings
+Asset,Fixed Assets,Depletable Assets
+Asset,Fixed Assets,Furniture And Fixtures
+Asset,Fixed Assets,Land
+Asset,Fixed Assets,Leasehold Improvements
+Asset,Fixed Assets,Machinery And Equipment
+Asset,Fixed Assets,Other Fixed Assets
+Asset,Fixed Assets,Vehicles
+Asset,Non-Current Assets,Accumulated Amortisation Of Non-Current Assets
+Asset,Non-Current Assets,Assets Held For Sale
+Asset,Non-Current Assets,Deferred Tax
+Asset,Non-Current Assets,Goodwill
+Asset,Non-Current Assets,Intangible Assets
+Asset,Non-Current Assets,Lease Buyout
+Asset,Non-Current Assets,Licenses
+Asset,Non-Current Assets,Long-Term Investments
+Asset,Non-Current Assets,Organisational Costs
+Asset,Non-Current Assets,Other Non-Current Assets
+Asset,Non-Current Assets,Security Deposits
+Liability,Credit Card,Credit Card
+Liability,Accounts Payable (A/P),Accounts Payable (A/P)
+Liability,Current Liabilities,Accrued Liabilities
+Liability,Current Liabilities,Client Trust Accounts - Liabilities
+Liability,Current Liabilities,Current Tax Liability
+Liability,Current Liabilities,Current Portion Of Obligations Under Finance Leases
+Liability,Current Liabilities,Dividends Payable
+Liability,Current Liabilities,Income Tax Payable
+Liability,Current Liabilities,Insurance Payable
+Liability,Current Liabilities,Line Of Credit
+Liability,Current Liabilities,Loan Payable
+Liability,Current Liabilities,Other Current Liabilities
+Liability,Current Liabilities,Payroll Clearing
+Liability,Current Liabilities,Payroll Liabilities
+Liability,Current Liabilities,Prepaid Expenses Payable
+Liability,Current Liabilities,Rents In Trust - Liability
+Liability,Current Liabilities,Sales And Service Tax Payable
+Liability,Non-Current Liabilities,Accrued Holiday Payable
+Liability,Non-Current Liabilities,Accrued Non-Current Liabilities
+Liability,Non-Current Liabilities,Liabilities Related To Assets Held For Sale
+Liability,Non-Current Liabilities,Long-Term Debt
+Liability,Non-Current Liabilities,Notes Payable
+Liability,Non-Current Liabilities,Other Non-Current Liabilities
+Liability,Non-Current Liabilities,Shareholder Notes Payable
+Equity,Owner's Equity,Accumulated Adjustment
+Equity,Owner's Equity,Dividend Disbursed
+Equity,Owner's Equity,Equity In Earnings Of Subsidiaries
+Equity,Owner's Equity,Opening Balance Equity
+Equity,Owner's Equity,Ordinary Shares
+Equity,Owner's Equity,Other Comprehensive Income
+Equity,Owner's Equity,Owner's Equity
+Equity,Owner's Equity,Paid-in Capital Or Surplus
+Equity,Owner's Equity,Partner Contributions
+Equity,Owner's Equity,Partner Distributions
+Equity,Owner's Equity,Partner's Equity
+Equity,Owner's Equity,Preferred Shares
+Equity,Owner's Equity,Retained Earnings
+Equity,Owner's Equity,Share Capital
+Equity,Owner's Equity,Treasury Shares
+Income,Income,Discounts/Refunds Given
+Income,Income,Non-Profit Income
+Income,Income,Other Primary Income
+Income,Income,Revenue - General
+Income,Income,Sales - Retail
+Income,Income,Sales - Wholesale
+Income,Income,Sales Of Product Income
+Income,Income,Service/Fee Income
+Income,Income,Unapplied Cash Payment Income
+Income,Other Income,Dividend Income
+Income,Other Income,Interest Earned
+Income,Other Income,Loss On Disposal Of Assets
+Income,Other Income,Other Investment Income
+Income,Other Income,Other Miscellaneous Income
+Income,Other Income,Other Operating Income
+Income,Other Income,Tax-Exempt Interest
+Income,Other Income,"Unrealised Loss On Securities, Net Of Tax"
+Expense,Cost Of Sales,Cost Of Labour – COS
+Expense,Cost Of Sales,Equipment Rental – COS
+Expense,Cost Of Sales,Freight And Delivery – COS
+Expense,Cost Of Sales,Other Costs Of Sales – COS
+Expense,Cost Of Sales,Supplies And Materials – COS
+Expense,Expenses,Advertising/Promotional
+Expense,Expenses,Amortisation Expense
+Expense,Expenses,Auto
+Expense,Expenses,Bad Debts
+Expense,Expenses,Bank Charges
+Expense,Expenses,Charitable Contributions
+Expense,Expenses,Commissions And Fees
+Expense,Expenses,Cost Of Labour
+Expense,Expenses,Dues And Subscriptions
+Expense,Expenses,Equipment Rental
+Expense,Expenses,Finance Costs
+Expense,Expenses,Income Tax Expense
+Expense,Expenses,Insurance
+Expense,Expenses,Interest Paid
+Expense,Expenses,Legal And Professional Fees
+Expense,Expenses,"Loss On Discontinued Operations, Net Of Tax"
+Expense,Expenses,Management Compensation
+Expense,Expenses,Meals And Entertainment
+Expense,Expenses,Office/General Administrative Expenses
+Expense,Expenses,Other Miscellaneous Service Cost
+Expense,Expenses,Other Selling Expenses
+Expense,Expenses,Payroll Expenses
+Expense,Expenses,Rent Or Lease Of Buildings
+Expense,Expenses,Repair And Maintenance
+Expense,Expenses,Shipping And Delivery Expense
+Expense,Expenses,Supplies And Materials
+Expense,Expenses,Taxes Paid
+Expense,Expenses,Travel Expenses – General And Admin Expenses
+Expense,Expenses,Travel Expenses – Selling Expense
+Expense,Expenses,Unapplied Cash Bill Payment Expense
+Expense,Expenses,Utilities
+Expense,Other Expense,Amortisation
+Expense,Other Expense,Depreciation
+Expense,Other Expense,Exchange Gain Or Loss
+Expense,Other Expense,Other Expense
+Expense,Other Expense,Penalties And Settlements
